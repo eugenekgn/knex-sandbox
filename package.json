@@ -1,0 +1,21 @@
+{
+  "name": "knex-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/eugenekgn/knex-sandbox.git"
+  },
+  "author": "Eugene Kagan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eugenekgn/knex-sandbox/issues"
+  },
+  "homepage": "https://github.com/eugenekgn/knex-sandbox#readme"
+}
