@@ -12,7 +12,7 @@ const knex = require('knex')(configuration);
 
 knex.select('title', 'rating').from('book').asCallback((err, rows) => {
     if (err) {
-      console.log(`Error ${erro}`);
+      console.log(`Error ${err}`);
     }
     console.log(rows);
   });
