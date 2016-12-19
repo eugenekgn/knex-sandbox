@@ -40,3 +40,8 @@ jspm_packages
 # Optional REPL history
 .node_repl_history
 
+.gitignore
+.idea/
+app.js
+book.sql
+package.json
